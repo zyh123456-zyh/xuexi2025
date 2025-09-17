@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "username": "全国大学生英语竞赛（NECCS）特等奖证书",
+      "sex": "学术英语竞赛证书",
+      "city": "2024.3",
+      "sign": "全国大学生英语竞赛（National English Competition for College Students）",
+      "experience": 2024031516,
+      "logins": 410,
+      "wealth":"-",
+      "classify": "否",
+      "score": "高等学校大学外语教学指导委员会、高等学校大学外语教学研究会"
+    },
+    {
+      "id": 2,
+      "username": "大学生英语能力等级考试（CSE）五级证书",
+      "sex": "通用英语能力证书",
+      "city": "2021.6",
+      "sign": "中国英语能力等级考试五级（China Standards of English Level 5）",
+      "experience": 2021061541,
+      "logins": 58,
+      "wealth":"-",
+      "classify": "否",
+      "score": "教育部考试中心"
+    },
+    {
+      "id": 3,
+      "username": "高校英语应用能力 B 级证书（PRETCO-B）",
+      "sex": "高职高专英语应用能力证书",
+      "city": "2021.4",
+      "sign": "全国高等学校英语应用能力考试 B 级（Practical English Test for Colleges - Level B）",
+      "experience": 2021041257,
+      "logins": 77,
+      "wealth":"-",
+      "classify":"否",
+      "score": "教育部高等教育司（委托各省教育考试院实施）"
+    },
+    {
+      "id": 4,
+      "username": "国际学术英语水平测试（IATEFL）中级证书",
+      "sex": "学术场景英语能力证书",
+      "city": "2023.5",
+      "sign": "国际英语教师协会学术英语水平测试中级",
+      "experience": 2023051458,
+      "logins": 157,
+      "wealth":"-",
+      "classify": "否",
+      "score": "国际英语教师协会（IATEFL）"
+    },
+    {
+      "id": 5,
+      "username": "大学生跨文化交际英语能力证书（ICEC）",
+      "sex": "跨文化沟通能力认证",
+      "city": "2024.3",
+      "sign": "大学生跨文化交际英语能力测评",
+      "experience": 2024035145,
+      "logins": 51,
+      "wealth": "-",
+      "classify": "否",
+      "score": "中国高等教育学会外语教学研究分会"
+    },
+    {
+      "id": 6,
+      "username": "商务英语翻译资格证书（ETTBL）初级",
+      "sex": "商务翻译入门资格证书",
+      "city": "2023.12",
+      "sign": "全国商务英语翻译考试初级",
+      "experience": 2023125456,
+      "logins": 68,
+      "wealth": "-",
+      "classify": "否",
+      "score": "中国商业联合会、全国商务英语翻译考试办公室"
+    },
+    {
+      "id": 7,
+      "username": "全国高校英语写作大赛一等奖证书",
+      "sex": "专项技能竞赛证书",
+      "city": "2024.5",
+      "sign": "全国高校英语写作大赛（National College English Writing Contest）",
+      "experience": 2024054812,
+      "logins": 37,
+      "wealth": "-",
+      "classify": "否",
+      "score": "全国高校外语教学指导委员会、中国外语与教育研究中心"
+    },
+    {
+      "id": 8,
+      "username": "雅思学术类（IELTS Academic）7.0 分证书",
+      "sex": "学术留学英语能力证书",
+      "city": "2024.6",
+      "sign": "国际英语语言测试系统学术类",
+      "experience": 20240641545,
+      "logins": 150,
+      "wealth": "-",
+      "classify": "否",
+      "score": "剑桥大学考试委员会、英国文化教育协会、澳大利亚教育国际开发署（IDP）"
+    },
+    {
+      "id": 9,
+      "username": "全国商务英语专业四级证书（BTEM-4）",
+      "sex": "商务英语专业基础证书",
+      "city": "2023.12",
+      "sign": "全国商务英语专业四级考试（Business Test for English Majors - Band 4）",
+      "experience": 2023125482,
+      "logins": 133,
+      "wealth": "-",
+      "classify": "否",
+      "score": "全国商务英语专业考试委员会、中国国际贸易学会"
+    },
+    {
+      "id": 10,
+      "username": "翻译专业资格（水平）考试二级笔译证书（CATTI 2）",
+      "sex": "高级翻译资格证书",
+      "city": "2025.2",
+      "sign": "全国翻译专业资格（水平）考试二级笔译",
+      "experience": 2025024582,
+      "logins": 25,
+      "wealth": "-",
+      "classify": "否",
+      "score": "中国外文出版发行事业局（国家外翻办）"
+    }
+  ]
+}

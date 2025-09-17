@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "username": "大学生雅思口语专项模拟赛",
+      "sex": "口语考试",
+      "city": "山西",
+      "sign": "2025.5",
+      "experience": 300,
+      "logins": 410,
+      "wealth": "-",
+      "classify": "-",
+      "score": "是"
+    },
+    {
+      "id": 2,
+      "username": "大学生英语词根词缀拓展应用测试",
+      "sex": "英语应用考试",
+      "city": "上海",
+      "sign": "2025.9",
+      "experience": 100,
+      "logins": 58,
+      "wealth": "是",
+      "classify": "是",
+      "score": "否"
+    },
+    {
+      "id": 3,
+      "username": "全国大学生英语四六级模拟统考",
+      "sex": "综合考试",
+      "city": "北京",
+      "sign": "2025.12",
+      "experience": 650,
+      "logins":"720",
+      "wealth": "-",
+      "classify": "-",
+      "score": "是"
+    },
+    {
+      "id": 4,
+      "username": "高等学校英语诗歌创作与翻译大赛",
+      "sex": "翻译考试",
+      "city": "上海",
+      "sign": "2026.1",
+      "experience": 300,
+      "logins": 300,
+      "wealth": "是",
+      "classify": "-",
+      "score": "否"
+    },
+    {
+      "id": 5,
+      "username": "全国高校英语语法填空专项模拟测试",
+      "sex": "阅读考试",
+      "city": "太原",
+      "sign": "2026.6",
+      "experience": 500,
+      "logins": 500,
+      "wealth": "-",
+      "classify": "-",
+      "score": "是"
+    },
+    {
+      "id": 6,
+      "username": "大学生英语文化常识问答竞赛",
+      "sex": "综合考试",
+      "city": "北京",
+      "sign": "2025.1",
+      "experience": 100,
+      "logins": 68,
+      "wealth": "是",
+      "classify": "否",
+      "score": "否"
+    },
+    {
+      "id": 7,
+      "username": "高校英语日常交际口语流利度测评",
+      "sex": "口语考试",
+      "city": "上海",
+      "sign": "2024.12",
+      "experience": 500,
+      "logins": 37,
+      "wealth": "是",
+      "classify": "是",
+      "score": "否"
+    },
+    {
+      "id": 8,
+      "username": "全国高校英语考研真题模拟挑战赛",
+      "sex": "综合考试",
+      "city": "北京",
+      "sign": "2025.11",
+      "experience": 200,
+      "logins": 150,
+      "wealth": "-",
+      "classify": "-",
+      "score": "是"
+    },
+    {
+      "id": 9,
+      "username": "全国高校英语小组口语辩论锦标赛",
+      "sex": "口语考试",
+      "city": "北京",
+      "sign": "2026.6",
+      "experience": 350,
+      "logins": 133,
+      "wealth": "否",
+      "classify": "否",
+      "score": "否"
+    },
+    {
+      "id": 10,
+      "username": "高等学校英语阅读与思辨能力测评",
+      "sex": "阅读考试",
+      "city": "北京",
+      "sign": "2025.3",
+      "experience": 480,
+      "logins": 25,
+      "wealth": "是",
+      "classify": "是",
+      "score": "否"
+    }
+  ]
+}

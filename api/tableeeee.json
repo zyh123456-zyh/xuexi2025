@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "username": "全国大学生英语学术词汇精准运用测试",
+      "sex": "词汇考试",
+      "city": "山西",
+      "sign": "2024.1",
+      "experience": 200,
+      "logins": 410,
+      "wealth":"否",
+      "classify": "否",
+      "score": 130
+    },
+    {
+      "id": 2,
+      "username": "高校英语专业四级听力模拟挑战赛",
+      "sex": "听力考试",
+      "city": "上海",
+      "sign": "2023.12",
+      "experience": 50,
+      "logins": 58,
+      "wealth":"是",
+      "classify": "是",
+      "score": 42
+    },
+    {
+      "id": 3,
+      "username": "全国高校英语完形填空技巧模拟测评",
+      "sex": "阅读考试",
+      "city": "北京",
+      "sign": "2024.5",
+      "experience": 650,
+      "logins": 77,
+      "wealth":"是",
+      "classify":"是",
+      "score": 568
+    },
+    {
+      "id": 4,
+      "username": "高等学校英语商务合同条款解读竞赛",
+      "sex": "综合考试",
+      "city": "上海",
+      "sign": "2025.1",
+      "experience": 300,
+      "logins": 157,
+      "wealth":"否",
+      "classify": "否",
+      "score": 204
+    },
+    {
+      "id": 5,
+      "username": "全国大学生英语即兴演讲主题抽选大赛",
+      "sex": "口语考试",
+      "city": "太原",
+      "sign": "2024.3",
+      "experience": 100,
+      "logins": 51,
+      "wealth": "是",
+      "classify": "否",
+      "score": 74
+    },
+    {
+      "id": 6,
+      "username": "大学生英语考研复试口语模拟测评",
+      "sex": "口语考试",
+      "city": "北京",
+      "sign": "2023.12",
+      "experience": 100,
+      "logins": 68,
+      "wealth": "否",
+      "classify": "是",
+      "score": 56
+    },
+    {
+      "id": 7,
+      "username": "全国大学生英语专业八级写作模拟赛",
+      "sex": "写作考试",
+      "city": "上海",
+      "sign": "2024.5",
+      "experience": 200,
+      "logins": 37,
+      "wealth": "是",
+      "classify": "是",
+      "score": 185
+    },
+    {
+      "id": 8,
+      "username": "全国高校英语词汇拼写大赛（含易混词）",
+      "sex": "词汇考试",
+      "city": "北京",
+      "sign": "2024.6",
+      "experience": 750,
+      "logins": 150,
+      "wealth": "是",
+      "classify": "否",
+      "score": 563
+    },
+    {
+      "id": 9,
+      "username": "全国大学生英语雅思写作 Task 2 模拟测评",
+      "sex": "写作考试",
+      "city": "北京",
+      "sign": "2023.12",
+      "experience": 100,
+      "logins": 133,
+      "wealth": "是",
+      "classify": "是",
+      "score": 62
+    },
+    {
+      "id": 10,
+      "username": "全国高校英语阅读理解推理能力测试",
+      "sex": "阅读考试",
+      "city": "北京",
+      "sign": "2025.2",
+      "experience": 400,
+      "logins": 25,
+      "wealth": "是",
+      "classify": "否",
+      "score": 375
+    }
+  ]
+}

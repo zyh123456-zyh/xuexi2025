@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 24030102,
+      "username": "林宇辰",
+      "sex": "男",
+      "city": "山西",
+      "sign": "中北大学",
+      "experience": 255,
+      "logins": 410,
+      "wealth": 2024.3,
+      "classify": 460,
+      "score": 410
+    },
+    {
+      "id": 22050563,
+      "username": "唐知许",
+      "sex": "男",
+      "city": "上海",
+      "sign": "上海大学",
+      "experience": 884,
+      "logins": 58,
+      "wealth": 2022.5,
+      "classify": 610,
+      "score": 584
+    },
+    {
+      "id": 23060458,
+      "username": "年静",
+      "sex": "女",
+      "city": "北京",
+      "sign": "北京大学",
+      "experience": 650,
+      "logins": 77,
+      "wealth": 2023.6,
+      "classify": "612",
+      "score": 568
+    },
+    {
+      "id": 24035203,
+      "username": "黄旋翼",
+      "sex": "女",
+      "city": "上海",
+      "sign": "同济大学",
+      "experience": 362,
+      "logins": 157,
+      "wealth": 2024.3,
+      "classify": 560,
+      "score": 523
+    },
+    {
+      "id": 22090102,
+      "username": "冯砚舟",
+      "sex": "男",
+      "city": "太原",
+      "sign": "中北大学",
+      "experience": 807,
+      "logins": 51,
+      "wealth": 2022.9,
+      "classify": 547,
+      "score": 512
+    },
+    {
+      "id": 23120351,
+      "username": "胡星眠",
+      "sex": "女",
+      "city": "北京",
+      "sign": "中央美术学院",
+      "experience": 173,
+      "logins": 68,
+      "wealth": 2023.12,
+      "classify": 490,
+      "score": 456
+    },
+    {
+      "id": 21054502,
+      "username": "孙若柠",
+      "sex": "女",
+      "city": "上海",
+      "sign": "上海大学",
+      "experience": 982,
+      "logins": 37,
+      "wealth": 2021.5,
+      "classify": 650,
+      "score": 601
+    },
+    {
+      "id": 23051502,
+      "username": "宋明澈",
+      "sex": "男",
+      "city": "北京",
+      "sign": "中央美术学院",
+      "experience": 727,
+      "logins": 150,
+      "wealth": 2023.5,
+      "classify": 596,
+      "score": 563
+    },
+    {
+      "id": 23058023,
+      "username": "吴泽川",
+      "sex": "男",
+      "city": "北京",
+      "sign": "北京大学",
+      "experience": 951,
+      "logins": 133,
+      "wealth": 2023.5,
+      "classify": 652,
+      "score": 623
+    },
+    {
+      "id": 24056301,
+      "username": "徐清禾",
+      "sex": "女",
+      "city": "北京",
+      "sign": "北京大学",
+      "experience": 484,
+      "logins": 25,
+      "wealth": 2024.5,
+      "classify": 598,
+      "score": 575
+    }
+  ]
+}

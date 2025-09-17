@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 10000,
+      "username": "阅读理解",
+      "sex": "中",
+      "city": "山西省2024DFHNC考试",
+      "sign": "2024.6",
+      "experience": 255,
+      "logins": 410,
+      "wealth": "是",
+      "classify": 15,
+      "score": 11.5
+    },
+    {
+      "id": 10001,
+      "username": "完形填空",
+      "sex": "难",
+      "city": "上海市三校联考",
+      "sign": "2022.5",
+      "experience": 1102,
+      "logins": 58,
+      "wealth": "是",
+      "classify": 20,
+      "score": 11
+    },
+    {
+      "id": 10002,
+      "username": "听力",
+      "sex": "难",
+      "city": "北京大学2024秋季期末考试",
+      "sign": "2024.12",
+      "experience": 1220,
+      "logins": 77,
+      "wealth":"是",
+      "classify": 45,
+      "score": 32
+    },
+    {
+      "id": 10003,
+      "username": "翻译",
+      "sex": "中",
+      "city": "全国高校英语翻译能力挑战赛",
+      "sign": "2023.5",
+      "experience": 1262,
+      "logins": 157,
+      "wealth": "是",
+      "classify": 28,
+      "score": 23
+    },
+    {
+      "id": 10004,
+      "username": "阅读理解",
+      "sex": "易",
+      "city": "高等学校英语阅读与思辨能力测评",
+      "sign": "2024.1",
+      "experience": 807,
+      "logins": 51,
+      "wealth": "是",
+      "classify": 15,
+      "score": 13
+    },
+    {
+      "id": 10005,
+      "username": "写作",
+      "sex": "难",
+      "city": "大学生跨文化英语沟通能力测试",
+      "sign": "2025.1",
+      "experience": 1073,
+      "logins": 68,
+      "wealth": "否",
+      "classify": 26,
+      "score": 19
+    },
+    {
+      "id": 10006,
+      "username": "完形填空",
+      "sex": "中",
+      "city": "全国高校英语词汇应用能力大赛",
+      "sign": "2023.9",
+      "experience": 982,
+      "logins": 37,
+      "wealth": "是",
+      "classify": 20,
+      "score": 14
+    },
+    {
+      "id": 10007,
+      "username": "翻译",
+      "sex": "易",
+      "city": "大学生英语科技文献阅读与翻译测试",
+      "sign": "2022.12",
+      "experience": 727,
+      "logins": 150,
+      "wealth": "否",
+      "classify": 30,
+      "score": 25
+    },
+    {
+      "id": 10008,
+      "username": "听力",
+      "sex": "中",
+      "city": "全国大学生英语综合能力挑战赛",
+      "sign": "2021.11",
+      "experience": 951,
+      "logins": 133,
+      "wealth": "否",
+      "classify": 40,
+      "score": 31
+    },
+    {
+      "id": 10009,
+      "username": "写作",
+      "sex": "难",
+      "city": "全国大学生旅游英语服务技能邀请赛",
+      "sign": "2025.6",
+      "experience": 484,
+      "logins": 25,
+      "wealth": "是",
+      "classify": 27,
+      "score": 16
+    }
+  ]
+}
